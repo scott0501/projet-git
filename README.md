@@ -4,7 +4,8 @@ GNU nano 8.3 .README.md
 Application de gestion de tâches (Ligne de commande)
 Fonctionnalités :
 
-    **Ajouter, modifier, supprimer des tâches**
+    AJOUTER ; modifier et supprimer des taches 
+    
     Voir la liste des tâches
     Sauvegarder dans un fichier JSON (tasks.json)
     Menu interactif via terminal
